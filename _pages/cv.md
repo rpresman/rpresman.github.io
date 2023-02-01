@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-# Education
+## Education
 * PhD in Statistical Science, Duke University, Expected 2025
 * MS in Statistics, University of Chicago, 2020
 * BS in Mathematics, Spec. in Economics (Honors), University of Chicago, 2014
