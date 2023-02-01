@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me | Rick Presman"
+title: "About"
+excerpt: "About | Rick Presman"
 author_profile: true
 redirect_from: 
   - /about/
