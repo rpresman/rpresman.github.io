@@ -9,6 +9,6 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-# Preprints
+## Preprints
 
 1. Presman, R. and Xu, J., [**Distance-to-Set Priors and Constrained Bayesian Inference**](https://arxiv.org/abs/2210.12258) (2022, *Submitted*)
