@@ -19,8 +19,20 @@ redirect_from:
   * Economics
 
 ## Research Experiences
+* Research Assistant to [Jason Xu](https://jasonxu90.github.io), *2021-Present*
+  * Department of Statistical Science, Duke University
+* Research Assistant to [Maria Tackett](https://maria-tackett.netlify.app), *2022*
+  * Department of Statistical Science, Duke University
+* Research Assistant to [Dacheng Xiu](https://dachxiu.chicagobooth.edu), *2019-2020*
+  * The Booth School of Business (Econometrics and Statistics Group), The University of Chicago
+* Research Assistant to [Lek-Heng Lim](https://www.stat.uchicago.edu/~lekheng/), *2019
+  * Departments of Statistics, The University of Chicago
 
 ## Professional Experiences
+* Jr. Engagement Manager for Pro-Bono Consulting, *2022-Present*
+  * [Duke Advanced-Degree Consulting Club](https://sites.duke.edu/dukeapdconsulting/)
+* Consultant, *2015-2018*
+  * [Quantitative Risk Management](qrm.com)
 
 
 You can find my CV [here]().
