@@ -25,7 +25,7 @@ redirect_from:
   * Department of Statistical Science, Duke University
 * Research Assistant to [Dacheng Xiu](https://dachxiu.chicagobooth.edu), *2019-2020*
   * The Booth School of Business (Econometrics and Statistics Group), The University of Chicago
-* Research Assistant to [Lek-Heng Lim](https://www.stat.uchicago.edu/~lekheng/), *2019
+* Research Assistant to [Lek-Heng Lim](https://www.stat.uchicago.edu/~lekheng/), *2019*
   * Departments of Statistics, The University of Chicago
 
 ## Professional Experiences
