@@ -5,9 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching Assistant
+I was awarded the PhD [Teaching Assistant of the Year Award](https://stat.duke.edu/past-recipients) for the 2021-2022 academic year by Duke's Statistical Science Department. You can find my teaching statement [here]().
 
-I was awarded the PhD [Teaching Assistant of the Year Award](https://stat.duke.edu/past-recipients) for the 2021-2022 academic year by Duke's Statistical Science Department.
+## Teaching Assistant
 
 ### Duke University
 * STA 561: Probabilistic Machine Learning (Spring 2023)
@@ -25,9 +25,3 @@ I was awarded the PhD [Teaching Assistant of the Year Award](https://stat.duke.e
 * MATH 19900: Introduction to Analysis and Linear Algebra, *Reader* (Winter 2014)
 * MATH 19900: Introduction to Analysis and Linear Algebra, *Reader* (Fall 2013)
 * MATH 15300: Calculus III, *Course Assistant* (Fall 2012)
-
-### Talks
-
-### Teaching Statement
-
-You can find my teaching statement [here]().
