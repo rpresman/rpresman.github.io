@@ -7,7 +7,7 @@ author_profile: true
 
 ## Teaching Assistant
 
-I won the PhD [Teaching Assistant of the Year Award](https://stat.duke.edu/past-recipients) for the 2021-2022 academic year at Duke's Statistical Science Department.
+I was awarded the PhD [Teaching Assistant of the Year Award](https://stat.duke.edu/past-recipients) for the 2021-2022 academic year by Duke's Statistical Science Department.
 
 ### Duke University
 * STA 561: Probabilistic Machine Learning (Spring 2023)
