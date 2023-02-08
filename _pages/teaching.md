@@ -20,7 +20,6 @@ I won the PhD [Teaching Assistant of the Year Award](https://stat.duke.edu/past-
 ### University of Chicago
 * BUSN 41100: Applied Regression Analysis (Winter 2020)
 * BUSN 32100: Data Analysis with R and Python (Fall 2019)
-
 * MATH 15300: Calculus III, *Course Assistant* (Fall 2014)
 * MATH 19900: Introduction to Analysis and Linear Algebra, *Reader* (Spring 2014)
 * MATH 19900: Introduction to Analysis and Linear Algebra, *Reader* (Winter 2014)
