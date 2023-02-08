@@ -12,3 +12,5 @@ author_profile: true
 ## Preprints
 
 1. Presman, R. and Xu, J., [**Distance-to-Set Priors and Constrained Bayesian Inference**](https://arxiv.org/abs/2210.12258) (2022, *Submitted*)
+
+## Talks and Workshops
