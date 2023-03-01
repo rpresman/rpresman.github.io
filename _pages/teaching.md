@@ -7,7 +7,7 @@ author_profile: true
 
 I was awarded the PhD [Teaching Assistant of the Year Award](https://stat.duke.edu/past-recipients) for the 2021-2022 academic year by Duke's Statistical Science Department. You can find my teaching statement [here]().
 
-![](/images/teaching3.png)                                
+<img src="/images/teaching3.png" width="375" height="200" />
                                                                                                                                                      
 ## Teaching Assistant
 
