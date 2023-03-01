@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+You can find my detailed CV [here]().
+
 ## Education
 * PhD, Duke University, *Expected 2025*
   * Department of Statistical Science
@@ -34,5 +36,3 @@ redirect_from:
 * Consultant, *2015-2018*
   * [Quantitative Risk Management](qrm.com)
 
-
-You can find my CV [here]().
