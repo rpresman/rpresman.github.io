@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can find my detailed CV [here](https://drive.google.com/file/d/1hZe5heoDJgESJBgJVPnW7lRCvkvF8GR2/view?usp=sharing).
+You can find my detailed CV [here](https://drive.google.com/file/d/1sAtjPWTNPgiIgBOebzwqO3vqVZ7utGXb/view?usp=sharing).
 
 ## Education
 * PhD, Duke University, *Expected 2025*
