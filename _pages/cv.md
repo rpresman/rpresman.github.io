@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-You can find my detailed CV [here](https://drive.google.com/file/d/1sAtjPWTNPgiIgBOebzwqO3vqVZ7utGXb/view?usp=sharing).
-
 ## Education
 * PhD, Duke University, *Expected 2025*
   * Department of Statistical Science
