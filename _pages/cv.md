@@ -34,5 +34,5 @@ You can find my detailed CV [here](https://drive.google.com/file/d/1sAtjPWTNPgiI
 * Jr. Engagement Manager for Pro-Bono Consulting, *2022-Present*
   * [Duke Advanced-Degree Consulting Club](https://sites.duke.edu/dukeapdconsulting/)
 * Consultant, *2015-2018*
-  * [Quantitative Risk Management](qrm.com)
+  * [Quantitative Risk Management](https://www.qrm.com)
 
