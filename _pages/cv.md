@@ -30,7 +30,7 @@ redirect_from:
 
 ## Professional Experiences
 * Jr. Engagement Manager for Pro-Bono Consulting, *2022-Present*
-  * [Duke Advanced-Degree Consulting Club](https://sites.duke.edu/dukeapdconsulting/)
+  * [Duke Advanced-Degree Consulting Club](https://sites.duke.edu/dacc/)
 * Consultant, *2015-2018*
   * [Quantitative Risk Management](https://www.qrm.com)
 
