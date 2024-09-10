@@ -7,8 +7,8 @@ redirect_from:
   - /projects/
 ---
 
-test
+<img src="/images/distance.png" width="469" height="250" />
 
 ---
 
-test
+<img src="/images/vol.png" width="469" height="250" />
