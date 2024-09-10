@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Education
-* PhD, Duke University, *Expected 2025*
+* PhD, Duke University, *Expected May 2025*
   * Department of Statistical Science
   * [Certificate in College Teaching](https://gradschool.duke.edu/professional-development/programs/certificate-college-teaching/)
 * MS, University of Chicago, *2020*
@@ -19,6 +19,8 @@ redirect_from:
   * Economics
 
 ## Research Experiences
+* Research Assistant to [Amy Herring](https://scholars.duke.edu/person/Amy.Herring), *2023-Present*
+  * Department of Statistical Science, Duke University
 * Research Assistant to [Jason Xu](https://jasonxu90.github.io), *2021-Present*
   * Department of Statistical Science, Duke University
 * Research Assistant to [Maria Tackett](https://maria-tackett.netlify.app), *2022*
@@ -29,7 +31,11 @@ redirect_from:
   * Departments of Statistics, The University of Chicago
 
 ## Professional Experiences
-* Jr. Engagement Manager for Pro-Bono Consulting, *2022-Present*
+* Quant AI Summer Associate, *2024*
+  * [JPMorganChase](https://www.jpmorganchase.com)
+* Quantitative Analytics Intern, *2023*
+  * [Wells Fargo](https://www.wellsfargo.com)
+* Director of Pro-Bono Consulting, *2022-2024*
   * [Duke Advanced-Degree Consulting Club](https://sites.duke.edu/dacc/)
 * Consultant, *2015-2018*
   * [Quantitative Risk Management](https://www.qrm.com)
