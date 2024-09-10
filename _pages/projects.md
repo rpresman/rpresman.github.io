@@ -8,3 +8,7 @@ redirect_from:
 ---
 
 test
+
+---
+
+test
