@@ -1,7 +1,7 @@
 ---
-permalink: /projects/
+layout: archive
 title: "Projects"
-excerpt: "Projects | Rick Presman"
+permalink: /projects/
 author_profile: true
 ---
 
