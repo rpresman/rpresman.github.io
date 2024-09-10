@@ -1,10 +1,8 @@
 ---
-permalink: /
+permalink: /projects/
 title: "Projects"
 excerpt: "Projects | Rick Presman"
 author_profile: true
-redirect_from: 
-  - /projects
 ---
 
 ## Distance-to-Set Priors
