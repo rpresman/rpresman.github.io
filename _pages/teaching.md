@@ -10,6 +10,8 @@ I was awarded the PhD [Teaching Assistant of the Year Award](https://stat.duke.e
 <img src="/images/teaching3.png" width="469" height="250" />
 
 ## Duke University
+* MATH 585: Introduction to Algorithmic Trading – Financial Data and Modeling (Fall 2024), *Teaching Assistant*
+* STA 702: Bayesian Methods and Modern Statistics (Fall 2023), *Teaching Assistant*
 * STA 561: Probabilistic Machine Learning (Spring 2023), *Teaching Assistant*
 * STA 210: Regression Analysis (Spring 2022), *Head Teaching Assistant*
 * STA 601: Bayesian Methods and Modern Statistics (Fall 2021), *Teaching Assistant*
