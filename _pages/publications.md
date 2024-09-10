@@ -11,8 +11,8 @@ author_profile: true
 
 ## Publications
 
-1. **Presman, R.** and Xu, J. (2024+). **Asymptotic Consistency of Projected Mirror Descent**. (Manuscript in progress)
-2. **Presman, R.** and Herring, A. (2024+). **Bayesian Ordinal Regression for the Modeling of Neuron Degeneration in *C. elegans***. (Manuscript in progress).
+1. **Presman, R.** and Xu, J. (2024+). [**Asymptotic Consistency of Projected Mirror Descent**](). (Manuscript in progress)
+2. **Presman, R.** and Herring, A. (2024+). [**Bayesian Ordinal Regression for the Modeling of Neuron Degeneration in *C. elegans***](). (Manuscript in progress).
 3. **Presman, R.** and Xu, J. (2023). [**Distance-to-Set Priors and Constrained Bayesian Inference**](https://proceedings.mlr.press/v206/presman23a/presman23a.pdf). *Artificial Intelligence and Statistics (top ~1.9% of papers)*
 
 ## Talks and Workshops
