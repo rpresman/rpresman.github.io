@@ -19,6 +19,9 @@ I was awarded the PhD [Teaching Assistant of the Year Award](https://stat.duke.e
 * STA 101: Data Analysis and Statistical Inference (Summer I 2021), *Teaching Assistant*
 * STA 360: Bayesian Methods and Modern Statistics (Spring 2021), *Teaching Assistant*
 
+### Mentoring
+* Fan, O. Z. (2023) [**Assessing Power of Statistical Tests in Dopamine Neurodegeneration for Ordinal Categorical Data**](https://stat.duke.edu/events/assessing-power-statistical-tests-dopamine-neurodegeneration-ordinal-categorical-data). *Senior thesis supervised by Dr. Amy Herring*
+
 ## University of Chicago
 * BUSN 41100: Applied Regression Analysis (Winter 2020), *Teaching Assistant*
 * BUSN 32100: Data Analysis with R and Python (Fall 2019), *Teaching Assistant*
