@@ -7,8 +7,10 @@ redirect_from:
   - /resume
 ---
 
+A more detailed version of my CV can be found [here](https://drive.google.com/file/d/18-27oaPQI7we8dB_YywrEjOO9AZS4oBX/view?usp=share_link).
+
 ## Education
-* PhD, Duke University, *Expected May 2025*
+* PhD, Duke University, *Expected December 2025*
   * Department of Statistical Science
   * [Certificate in College Teaching](https://gradschool.duke.edu/professional-development/programs/certificate-college-teaching/)
 * MS, University of Chicago, *2020*
@@ -31,6 +33,8 @@ redirect_from:
   * Departments of Statistics, The University of Chicago
 
 ## Professional Experiences
+* Quantitative Strategist Summer Associate, *2025*
+  * [Morgan Stanley](https://www.morganstanley.com)
 * Quant AI Summer Associate, *2024*
   * [JPMorganChase](https://www.jpmorganchase.com)
 * Quantitative Analytics Intern, *2023*
