@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Education
-* PhD, Duke University, *Expected December 2025*
+* PhD, Duke University, *2025*
   * Department of Statistical Science
   * [Certificate in College Teaching](https://gradschool.duke.edu/professional-development/programs/certificate-college-teaching/)
 * MS, University of Chicago, *2020*
@@ -19,9 +19,9 @@ redirect_from:
   * Economics
 
 ## Research Experiences
-* Research Assistant to [Amy Herring](https://scholars.duke.edu/person/Amy.Herring), *2023-Present*
+* Research Assistant to [Amy Herring](https://scholars.duke.edu/person/Amy.Herring), *2023-2025*
   * Department of Statistical Science, Duke University
-* Research Assistant to [Jason Xu](https://jasonxu90.github.io), *2021-Present*
+* Research Assistant to [Jason Xu](https://jasonxu90.github.io), *2021-2025*
   * Department of Statistical Science, Duke University
 * Research Assistant to [Maria Tackett](https://maria-tackett.netlify.app), *2022*
   * Department of Statistical Science, Duke University
